@@ -1,2 +1,1 @@
-# alurabooks
-Landing Page do AluraBooks
+# https://davibenatti.github.io/alurabooks/
